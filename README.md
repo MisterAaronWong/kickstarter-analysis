@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Various categories were analyzed including but not limited to: location, funds needed/received, success rate, etc. to aid in determining the ideal parameters for Louise to begin a kickstarter for her desired play.
+### Various categories were analyzed including but not limited to: location, funds needed/received, success rate, etc. to aid in determining the ideal parameters for Louise to begin a kickstarter for her desired play.
 ---
 Review the following charts for detail:
 ![Outcome Dates](C:\Users\Aaron\Desktop\Class Folder\OutcomeDates.png)
