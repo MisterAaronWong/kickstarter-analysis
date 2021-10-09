@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns (1.6.1)
 ### Various categories were analyzed including but not limited to: location, funds needed/received, success rate, etc. to aid in determining the ideal parameters for Louise to begin a kickstarter for her desired play.
 ---
 Review the following charts for detail:
@@ -9,8 +9,9 @@ Review the following charts for detail:
 
 Based on these preliminary findings, it is recommended that if Louise decides to create a play in Great Britain, she should lower her pledge goal to a lower expectation than the initial $4,000.
 
+---
 
-# Kickstarting with Excel
+# Kickstarting with Excel (Module 1 Challenge)
 
 ## Overview of Project
 
@@ -33,6 +34,13 @@ A potential factor that could be considered a challenge is the fact that althoug
 
 ## Results
 
+Based on the data and visualization regarding theater campaigns based on their launch date, preliminary conclusions can be drawn that May and June were the two most popular months to begin theater campaign fundraising, as they had the highest totals. May and June also have had the highest rate of being successful. Despite this, May and June also appear to be the months with the highest failures as well. October was the only month that had no cancellations regardless of the year.
+
+Regarding play campaign outcomes based on the fundraising goal amount, one preliminary conclusion that can be drawn is that play campaigns are never canceled and will either be successful or fail. 
+
+There are possible limitations	 to this dataset to consider. This dataset can be filtered to theater and plays, but it does not include a category to filter for genre. Genre of the play could be an important factor to consider because people may feel either more willing or less willing to pledge to a fundraiser depending on if the intended campaign fits their likes and preferences. For instance, perhaps campaigns for historical plays may garner more fundraising pledges than campaigns for comedy plays. This could end up impacting Louise’s campaign without her knowing about it.
+
+Therefore, another possible graph or table that can be created is one that includes genre as a factor. However, the dataset would probably have to be manually edited to include this information before these graphs and charts can be created.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
